@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tab_current">Current</string>
+    <string name="tab_history">History</string>
+    <string name="label_temperature">Temperature: %1$.1f°C</string>
+    <string name="label_windspeed">Windspeed: %1$.1f km/h</string>
+    <string name="label_condition">Condition Code: %1$d</string>
+    <string name="no_data">No weather data yet</string>
+    <string name="fetch_button">Fetch Weather</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="history_item_temp_wind">Temp: %1$.1f°C | Wind: %2$.1f km/h</string>
+    <string name="history_item_code">Code: %1$d</string>
+    <string name="history_item_time">Time: %1$s</string>
+</resources>
